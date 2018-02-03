@@ -382,7 +382,7 @@ textarea:focus {
   border: 1px solid #51cbee; }
 
 .nav-open header {
-  background: #444;
+  background: #1e1e1e;
   z-index: 10; }
   @media (min-width: 620px) {
     .nav-open header {
@@ -401,7 +401,7 @@ textarea:focus {
 
 nav {
   text-transform: uppercase;
-  font-size: 0.8em;
+  font-size: 1.0em;
   width: 100%; }
   nav ul {
     margin: 0;
@@ -442,7 +442,7 @@ nav {
       nav a.nav-toggle:hover {
         border: 0; }
   nav a:hover {
-    color: #fff; }
+    color: #1e1e1e; }
     @media (min-width: 620px) {
       nav a:hover {
         border-bottom: 2px solid rgba(255, 255, 255, 0.6);
@@ -453,10 +453,10 @@ nav {
       border: 1px #ccc solid;
       border-radius: 5px; }
       nav a.highlight:hover {
-        background: #fff;
+        background: #1e1e1e;
         color: #FFA715; } }
   nav a.active {
-    color: #fff; }
+    color: #1e1e1e; }
 
 footer {
   padding: 100px 0 50px 0;
