@@ -453,7 +453,7 @@ nav {
       border: 1px #ccc solid;
       border-radius: 5px; }
       nav a.highlight:hover {
-        background: #1e1e1e;
+        background: #ff9400;
         color: #FFA715; } }
   nav a.active {
     color: #ff9400; }
