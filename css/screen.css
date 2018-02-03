@@ -176,7 +176,7 @@ section, footer {
   align-items: center; }
   .halves > div {
     flex: 1 0 100%; }
-  @media (min-width: 620px) {
+  @media (min-width: 700px) {
     .halves > div {
       flex: 1; }
     .halves > div + div {
@@ -384,7 +384,7 @@ textarea:focus {
 .nav-open header {
   background: #1e1e1e;
   z-index: 10; }
-  @media (min-width: 620px) {
+  @media (min-width: 700px) {
     .nav-open header {
       background: none; } }
 .nav-open nav {
@@ -392,7 +392,7 @@ textarea:focus {
   border: 0; }
   .nav-open nav a {
     display: block; }
-  @media (min-width: 620px) {
+  @media (min-width: 700px) {
     .nav-open nav {
       border: 0;
       padding: 0 20px; }
@@ -408,7 +408,7 @@ nav {
     padding: 0; }
   nav li {
     display: block; }
-  @media (min-width: 620px) {
+  @media (min-width: 700px) {
     nav {
       text-align: right;
       position: absolute;
@@ -424,7 +424,7 @@ nav {
     transition: 0.2s ease-in-out;
     display: none;
     font-size: 1rem; }
-    @media (min-width: 620px) {
+    @media (min-width: 700px) {
       nav a {
         border-bottom: 2px solid rgba(255, 255, 255, 0);
         display: block;
@@ -436,19 +436,19 @@ nav {
       top: -22px;
       font-size: 1.9em;
       border: 0; }
-      @media (min-width: 620px) {
+      @media (min-width: 700px) {
         nav a.nav-toggle {
           display: none; } }
       nav a.nav-toggle:hover {
         border: 0; }
   nav a:hover {
     color: #ffffff; }
-    @media (min-width: 620px) {
+    @media (min-width: 700px) {
       nav a:hover {
         border-bottom: 2px solid rgba(255, 255, 255, 0.6);
         display: block;
         padding: 10px; } }
-  @media (min-width: 620px) {
+  @media (min-width: 700px) {
     nav a.highlight {
       border: 1px #ccc solid;
       border-radius: 5px; }
