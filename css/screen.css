@@ -382,7 +382,7 @@ textarea:focus {
   border: 1px solid #51cbee; }
 
 .nav-open header {
-  background: #1e1e1e;
+  background: #ff9400;
   z-index: 10; }
   @media (min-width: 620px) {
     .nav-open header {
