@@ -453,10 +453,10 @@ nav {
       border: 1px #ccc solid;
       border-radius: 5px; }
       nav a.highlight:hover {
-        background: #ff9400;
+        background: #1e1e1e;
         color: #FFA715; } }
   nav a.active {
-    color: #ff9400; }
+    color: #1e1e1e; }
 
 footer {
   padding: 100px 0 50px 0;
